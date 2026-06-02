@@ -43,6 +43,7 @@ This project presents an interactive Amazon Sales Analysis Dashboard built using
 ---
 
 ## 🛠️ Tools & Technologies
+
 * Microsoft Power BI
 * DAX (Data Analysis Expressions)
 * Data Modeling
@@ -51,6 +52,7 @@ This project presents an interactive Amazon Sales Analysis Dashboard built using
 ---
 
 ## 📂 Repository Structure
+
 Amazon-Sales-Dashboard/
 │
 ├── Amazon_Sales_project.pbix
@@ -64,6 +66,7 @@ Amazon-Sales-Dashboard/
 ---
 
 ## 📈 Key Business Insights
+
 * Analyze product distribution across Amazon categories.
 * Identify categories with the highest customer engagement.
 * Evaluate discount strategies and their impact.
@@ -86,14 +89,20 @@ The goal of this project is to:
 ## 📷 Dashboard Preview
 <img width="1431" height="797" alt="Screenshot 2026-06-02 104424" src="https://github.com/user-attachments/assets/2e9865fe-2a47-47d3-8e16-0616f5c2152b" />
 
+---
 
-🔧 How to Use
-Clone this repository:
-git clone https://github.com/your-username/amazon-sales-dashboard.git
-Open the .pbix file in Power BI Desktop.
-Refresh the dataset if needed.
-Explore the interactive dashboard and filters.
-📊 Dashboard Metrics
+## 🔧 How to Use
+
+1. Clone this repository:
+(git clone https://github.com/your-username/amazon-sales-dashboard.git)
+2. Open the .pbix file in Power BI Desktop.
+3. Refresh the dataset if needed.
+4. Explore the interactive dashboard and filters.
+
+---
+
+## 📊 Dashboard Metrics
+
 Metric	Description
 Total Products	Number of products available
 Total Categories	Number of product categories
