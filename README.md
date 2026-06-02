@@ -52,7 +52,7 @@ This project presents an interactive Amazon Sales Analysis Dashboard built using
 ---
 
 ## 📂 Repository Structure
-
+```
 Amazon-Sales-Dashboard/
 │
 ├── Amazon_Sales_project.pbix
@@ -62,7 +62,7 @@ Amazon-Sales-Dashboard/
 │
 └── dataset/
     └── amazon_sales.csv
-
+```
 ---
 
 ## 📈 Key Business Insights
@@ -103,28 +103,38 @@ The goal of this project is to:
 
 ## 📊 Dashboard Metrics
 
-Metric	Description
-Total Products	Number of products available
-Total Categories	Number of product categories
-Average Rating	Mean customer rating
-Average Discount %	Average discount offered
-Future Improvements
-Add sales revenue analysis
-Customer segmentation
-Trend analysis over time
-Profitability dashboard
-Advanced forecasting models
-👨‍💻 Author
+|Metric	            | Description                  |
+|-------------------|------------------------------|
+|Total Products	    | Number of products available |
+|Total Categories   | Number of product categories |
+|Average Rating	    | Mean customer rating         |
+|Average Discount % | Average discount offered     |
 
-Your Name
+---
 
-GitHub: https://github.com/your-username
-LinkedIn: https://linkedin.com/in/your-profile
+## Future Improvements
+* Add sales revenue analysis
+* Customer segmentation
+* Trend analysis over time
+* Profitability dashboard
+* Advanced forecasting models
+
+---
+
+## 👨‍💻 Author
+
+GitHub: https://github.com/harikishan1227-cmyk
+LinkedIn: https://linkedin.com/in/harikishanv
+
+---
+
 📜 License
 
 This project is licensed under the MIT License.
 
 MIT License
 Copyright (c) 2026
+
+
 
 ⭐ If you found this project useful, consider giving it a star on GitHub!
